@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Base Pose",
+    "image": "assets/images/Base.png",
+    "audio": "assets/audio/Base.mp3",
+    "duration": 31
+  },
+  {
+    "name": "Cat Pose",
+    "image": "assets/images/Cat.png",
+    "audio": "assets/audio/Cat.mp3",
+    "duration": 14
+  },
+  {
+    "name": "Cow Pose",
+    "image": "assets/images/Cow.png",
+    "audio": "assets/audio/Cow.mp3",
+    "duration": 15
+  }
+
+] 
