@@ -7,7 +7,7 @@ import '../bloc/yoga_session_bloc.dart';
 import '../bloc/yoga_session_event.dart';
 import '../bloc/yoga_session_state.dart';
 import '../widgets/custom_button.dart';
-import 'pose_card.dart';
+import '../widgets/pose_card.dart';
 
 class YogaPreviewPage extends StatelessWidget {
   const YogaPreviewPage({super.key});
